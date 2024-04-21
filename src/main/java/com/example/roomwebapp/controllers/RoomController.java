@@ -3,7 +3,7 @@ package com.example.roomwebapp.controllers;
 import java.util.ArrayList;
 import java.util.List;
 
-
+import com.example.roomwebapp.models.Room;
 import com.example.roomwebapp.service.RoomService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
